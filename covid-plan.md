@@ -45,4 +45,4 @@
 - This policy has been determined based upon thorough risk assessments and audits following WorkSafe Australia frameworks.
 
 # Non compliance
-A breach of this COVID-19 safety policy is grounds for immediate termination and permanent explusion without any refund of fees paid. COVID-19 (Coronavirus) is a serious public health emergency and must be treated as such at all times. Non compliance with any laws WILL be reported to Police.
+A breach of this COVID-19 safety policy is grounds for immediate termination and permanent expulsion without any refund of fees paid. COVID-19 (Coronavirus) is a serious public health emergency and must be treated as such at all times. Non compliance with any laws WILL be reported to Police.
